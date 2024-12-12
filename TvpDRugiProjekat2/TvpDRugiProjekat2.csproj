@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DCC10C41-D39F-4C8E-B776-21B7F6FC5388}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TvpDRugiProjekat2</RootNamespace>
+    <AssemblyName>TvpDRugiProjekat2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormeZaDodavanje\DodajKategoriju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeZaDodavanje\DodajKategoriju.Designer.cs">
+      <DependentUpon>DodajKategoriju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeZaDodavanje\DodajRezervaciju.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeZaDodavanje\DodajRezervaciju.Designer.cs">
+      <DependentUpon>DodajRezervaciju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeZaDodavanje\DodajVozilo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeZaDodavanje\DodajVozilo.Designer.cs">
+      <DependentUpon>DodajVozilo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlavneForme\Izvestaj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavneForme\Izvestaj.Designer.cs">
+      <DependentUpon>Izvestaj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlavneForme\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavneForme\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Provere.cs" />
+    <Compile Include="GlavneForme\Rezervacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavneForme\Rezervacije.Designer.cs">
+      <DependentUpon>Rezervacije.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RentACarDB.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RentACarDB.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Utils.cs" />
+    <Compile Include="GlavneForme\Vozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlavneForme\Vozila.Designer.cs">
+      <DependentUpon>Vozila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormeZaDodavanje\DodajKategoriju.resx">
+      <DependentUpon>DodajKategoriju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeZaDodavanje\DodajRezervaciju.resx">
+      <DependentUpon>DodajRezervaciju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeZaDodavanje\DodajVozilo.resx">
+      <DependentUpon>DodajVozilo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavneForme\Izvestaj.resx">
+      <DependentUpon>Izvestaj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavneForme\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavneForme\Rezervacije.resx">
+      <DependentUpon>Rezervacije.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlavneForme\Vozila.resx">
+      <DependentUpon>Vozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="RentACarDB.xsc">
+      <DependentUpon>RentACarDB.xsd</DependentUpon>
+    </None>
+    <None Include="RentACarDB.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RentACarDB.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RentACarDB.xss">
+      <DependentUpon>RentACarDB.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

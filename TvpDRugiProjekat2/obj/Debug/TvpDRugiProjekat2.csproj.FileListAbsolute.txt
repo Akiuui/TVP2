@@ -1,0 +1,32 @@
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\bin\Debug\TvpDRugiProjekat2.exe.config
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\bin\Debug\TvpDRugiProjekat2.exe
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\bin\Debug\TvpDRugiProjekat2.pdb
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.csproj.AssemblyReference.cache
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Properties.Resources.resources
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.csproj.GenerateResource.cache
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.csproj.CoreCompileInputs.cache
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.exe
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.pdb
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.DodajVozilo.resources
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.DodajRezervaciju.resources
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Main.resources
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Rezervacije.resources
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Vozila.resources
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.DodajKategoriju.resources
+D:\User\Desktop\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Izvestaj.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\bin\Debug\TvpDRugiProjekat2.exe.config
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\bin\Debug\TvpDRugiProjekat2.exe
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\bin\Debug\TvpDRugiProjekat2.pdb
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.csproj.AssemblyReference.cache
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.DodajKategoriju.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.DodajRezervaciju.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.DodajVozilo.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Izvestaj.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Main.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Rezervacije.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Vozila.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.Properties.Resources.resources
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.csproj.GenerateResource.cache
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.exe
+D:\User\Desktop\Faks Projekti\TvpDRugiProjekat2\TvpDRugiProjekat2\obj\Debug\TvpDRugiProjekat2.pdb
